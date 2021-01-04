@@ -1,4 +1,5 @@
 # order-page
+![checkout page](https://user-images.githubusercontent.com/44639335/103583756-5ed47980-4ef1-11eb-9ddb-a46ec252ff92.png)
 https://user-images.githubusercontent.com/44639335/103582836-ace87d80-4eef-11eb-98a8-0d49f6f86c35.mp4
 Shows the checkout and order completion procedure
 
