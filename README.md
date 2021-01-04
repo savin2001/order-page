@@ -1,4 +1,6 @@
 # order-page
+This is a basic part of a website that deals with checkout, completing order and order tracking. It is frontend
+Click the link below to see the site https://savin2001.github.io/order-page/
 ![cart items](https://user-images.githubusercontent.com/44639335/103584038-e7531a00-4ef1-11eb-9aef-c5c81d1a4fb9.png)
 Cart items page
 ![checkout page](https://user-images.githubusercontent.com/44639335/103583756-5ed47980-4ef1-11eb-9ddb-a46ec252ff92.png)
